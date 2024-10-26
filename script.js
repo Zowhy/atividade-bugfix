@@ -1,1 +1,1 @@
-const dataAtual = new Date().toLocaleDateString("en-GB");
+const dataAtual = new Date().toLocaleDateString("pt-BR");
