@@ -1,1 +1,1 @@
-document.getElementById("msg").textContent = saudacao;
+document.getElementById("mensagem").textContent = saudacao;
